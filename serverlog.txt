@@ -1,0 +1,13 @@
+2024-06-05 22:51:41: Server: Start
+2024-06-05 22:51:41: Server: Daemonized
+2024-06-05 22:51:48: Socket 4: Connected
+2024-06-05 22:51:50: Socket 5: Connected
+2024-06-05 22:51:52: Socket 6: Connected
+2024-06-05 22:51:57: Socket 4: Receive message "INT"
+2024-06-05 22:52:07: Socket 4: Receive message "SOCKET 4"
+2024-06-05 22:52:12: Socket 5: Receive message "SOCKET 5"
+2024-06-05 22:52:16: Socket 6: Receive message "SOCKET 6"
+2024-06-05 22:52:21: Socket 4: Receive message "A"
+2024-06-05 22:52:24: Socket 5: Receive message "B"
+2024-06-05 22:52:27: Socket 6: Receive message "C"
+2024-06-05 22:52:38: Socket 6: Disconnected
